@@ -1,0 +1,20 @@
+{
+    "name": "node91sdk",
+    "version": "0.1.0",
+    "license": "MIT",
+    "author": "sqh <admin@sqhong.com>",
+    "homepage": "https://github.com/zxc122333/node91sdk",
+    "description": "91sdk服务端模块 for node.js ",
+    "bugs": {
+        "email": "admin@sqhong.com",
+        "url": "https://github.com/zxc122333/node91sdk/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zxc122333/node91sdk"
+    },
+
+    "dependencies": {
+        "request": "*"
+    }
+}
