@@ -15,6 +15,7 @@
     },
 
     "dependencies": {
-        "request": "*"
+        "request": "*",
+        "MD5":"*"
     }
 }
